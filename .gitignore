@@ -1,3 +1,8 @@
 .ipynb_checkpoints/
 BSR_bsds500.tgz
 BSR/
+data/kmeans/
+data/normalized_rbf/
+data/normalized_nn/
+*.jpg
+*.mat
